@@ -1,0 +1,28 @@
+{
+  "name": "snapbots",
+  "version": "0.0.1",
+  "description": "Connecting snap with irobots",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seattleacademy/snapbots.git"
+  },
+  "keywords": [
+    "snap",
+    "irobot"
+  ],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/snapbots/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/snapbots#readme"
+}
